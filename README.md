@@ -4,7 +4,7 @@ Overview of the code quality of projects I'm working on.
 
 ## Aero
 
-| Project | Report card | Tests | Coverage |
+| Project | Report | Tests | Coverage |
 |---|---|---|---|
 | aero | [![Go report card][goreportcard-image-aero]][goreportcard-url-aero] | [![Tests][travis-image-aero]][travis-url-aero] | [![Code coverage][codecov-image-aero]][codecov-url-aero] |
 | codetree | [![Go report card][goreportcard-image-codetree]][goreportcard-url-codetree] | [![Tests][travis-image-codetree]][travis-url-codetree] | [![Code coverage][codecov-image-codetree]][codecov-url-codetree] |
