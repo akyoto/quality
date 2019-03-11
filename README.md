@@ -97,7 +97,7 @@ Overview of the code quality of projects I'm working on.
 [goreportcard-url-arn]: https://goreportcard.com/report/github.com/animenotifier/arn
 [travis-image-arn]: https://travis-ci.org/animenotifier/arn.svg
 [travis-url-arn]: https://travis-ci.org/animenotifier/arn
-[codecov-image-arn]: https://codecov.io/gh/animenotifier/arn/branch/master/graph/badge.svg
+[codecov-image-arn]: https://codecov.io/gh/animenotifier/arn/branch/go/graph/badge.svg
 [codecov-url-arn]: https://codecov.io/gh/animenotifier/arn
 
 [goreportcard-image-mal]: https://goreportcard.com/badge/github.com/animenotifier/mal
