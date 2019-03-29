@@ -8,6 +8,7 @@ Overview of the code quality of projects I'm working on.
 |---------|--------|-------|----------|
 | aero | [![Go report card][goreportcard-image-aero]][goreportcard-url-aero] | [![Tests][travis-image-aero]][travis-url-aero] | [![Code coverage][codecov-image-aero]][codecov-url-aero] |
 | codetree | [![Go report card][goreportcard-image-codetree]][goreportcard-url-codetree] | [![Tests][travis-image-codetree]][travis-url-codetree] | [![Code coverage][codecov-image-codetree]][codecov-url-codetree] |
+| log | [![Go report card][goreportcard-image-log]][goreportcard-url-log] | [![Tests][travis-image-log]][travis-url-log] | [![Code coverage][codecov-image-log]][codecov-url-log] |
 | pack | [![Go report card][goreportcard-image-pack]][goreportcard-url-pack] | [![Tests][travis-image-pack]][travis-url-pack] | [![Code coverage][codecov-image-pack]][codecov-url-pack] |
 | pixy | [![Go report card][goreportcard-image-pixy]][goreportcard-url-pixy] | [![Tests][travis-image-pixy]][travis-url-pixy] | [![Code coverage][codecov-image-pixy]][codecov-url-pixy] |
 | scarlet | [![Go report card][goreportcard-image-scarlet]][goreportcard-url-scarlet] | [![Tests][travis-image-scarlet]][travis-url-scarlet] | [![Code coverage][codecov-image-scarlet]][codecov-url-scarlet] |
@@ -50,6 +51,13 @@ Overview of the code quality of projects I'm working on.
 [travis-url-scarlet]: https://travis-ci.org/aerogo/scarlet
 [codecov-image-scarlet]: https://codecov.io/gh/aerogo/scarlet/branch/master/graph/badge.svg
 [codecov-url-scarlet]: https://codecov.io/gh/aerogo/scarlet
+
+[goreportcard-image-log]: https://goreportcard.com/badge/github.com/aerogo/log
+[goreportcard-url-log]: https://goreportcard.com/report/github.com/aerogo/log
+[travis-image-log]: https://travis-ci.org/aerogo/log.svg?branch=master
+[travis-url-log]: https://travis-ci.org/aerogo/log
+[codecov-image-log]: https://codecov.io/gh/aerogo/log/branch/master/graph/badge.svg
+[codecov-url-log]: https://codecov.io/gh/aerogo/log
 
 [goreportcard-image-pack]: https://goreportcard.com/badge/github.com/aerogo/pack
 [goreportcard-url-pack]: https://goreportcard.com/report/github.com/aerogo/pack
