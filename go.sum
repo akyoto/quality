@@ -2,6 +2,8 @@ github.com/akyoto/autoimport v0.5.1 h1:vL8DJ578QVuwMwJyzG91IuEb1f4qb+TmVFG5cxeLw
 github.com/akyoto/autoimport v0.5.1/go.mod h1:hvBxNFwnEhKOlhZh4rZBpsoG/q8f0Ol3s3NIcg7HBQo=
 github.com/akyoto/color v1.8.1 h1:HpoHQMGnBYZNpNuayXDKJMlGKvbvGipLYRtGV24SOgM=
 github.com/akyoto/color v1.8.1/go.mod h1:M0u9nnLt9zM2qp08X40EVVFeR+FgNI2NG0InuiDBTQ0=
+github.com/akyoto/color v1.8.2 h1:FOTpvfQkCk00yCl8oU/wjO3+jBi3FWpwUogLkeyzWfU=
+github.com/akyoto/color v1.8.2/go.mod h1:wiwOfYJb0XdHYznfIes7wjr79A/EjGPZ64FfbwJv4RY=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
