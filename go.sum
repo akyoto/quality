@@ -1,9 +1,9 @@
-github.com/akyoto/autoimport v0.5.1 h1:vL8DJ578QVuwMwJyzG91IuEb1f4qb+TmVFG5cxeLwZo=
-github.com/akyoto/autoimport v0.5.1/go.mod h1:hvBxNFwnEhKOlhZh4rZBpsoG/q8f0Ol3s3NIcg7HBQo=
-github.com/akyoto/color v1.8.1 h1:HpoHQMGnBYZNpNuayXDKJMlGKvbvGipLYRtGV24SOgM=
-github.com/akyoto/color v1.8.1/go.mod h1:M0u9nnLt9zM2qp08X40EVVFeR+FgNI2NG0InuiDBTQ0=
+github.com/akyoto/autoimport v0.5.2 h1:aXBFyIUecNFzzNJk8DveBA7hcYRpGU4dJ9C7FB84XaM=
+github.com/akyoto/autoimport v0.5.2/go.mod h1:CfCVtb4nxKFrzJm38p4Fxppv4mjyS6wYGHwGssARkYo=
 github.com/akyoto/color v1.8.2 h1:FOTpvfQkCk00yCl8oU/wjO3+jBi3FWpwUogLkeyzWfU=
 github.com/akyoto/color v1.8.2/go.mod h1:wiwOfYJb0XdHYznfIes7wjr79A/EjGPZ64FfbwJv4RY=
+github.com/akyoto/color v1.8.3 h1:d+xQM5ra9aCxUzchbxSX2Szkd7cQwuJARSQMzNb3aLM=
+github.com/akyoto/color v1.8.3/go.mod h1:wiwOfYJb0XdHYznfIes7wjr79A/EjGPZ64FfbwJv4RY=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -21,3 +21,5 @@ golang.org/x/sys v0.0.0-20190222072716-a9d3bda3a223 h1:DH4skfRX4EBpamg7iV4ZlCpbl
 golang.org/x/sys v0.0.0-20190222072716-a9d3bda3a223/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
 golang.org/x/sys v0.0.0-20190428183149-804c0c7841b5 h1:m0i9YywO9THhxmJvLEwKJDD/pD8ljCB+EaT/wYS41Is=
 golang.org/x/sys v0.0.0-20190428183149-804c0c7841b5/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.0.0-20190429190828-d89cdac9e872 h1:cGjJzUd8RgBw428LXP65YXni0aiGNA4Bl+ls8SmLOm8=
+golang.org/x/sys v0.0.0-20190429190828-d89cdac9e872/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
