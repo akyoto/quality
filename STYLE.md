@@ -11,8 +11,7 @@ This document is only meant to teach you the code style used among each project 
 * [Don't comment out outdated code](#dont-comment-out-outdated-code)
 * [Comments start with space and uppercase](#comments-start-with-space-and-uppercase)
 * [Package names](#package-names)
-* [Use gofmt](#use-gofmt)
-* [Code editor](#code-editor)
+* [Use goimports](#use-goimports)
 
 ## Tabs vs Spaces
 
