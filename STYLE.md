@@ -15,7 +15,7 @@ This document is only meant to teach you the code style used among each project 
 
 ## Tabs vs Spaces
 
-Use [tabs for indentation and spaces for alignment](https://eduardurbach.com/post/tabs-vs-spaces):
+Use tabs for indentation and spaces for alignment:
 
 ```go
 type Translation struct {
