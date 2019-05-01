@@ -1,6 +1,6 @@
 # Code quality
 
-Overview of the code quality of projects I'm working on.
+Overview of the code quality and [code style](STYLE.md) of projects I'm working on.
 
 | Package | Path | Report | Tests | Coverage |
 |---------|------|--------|-------|----------|
