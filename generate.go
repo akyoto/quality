@@ -2,11 +2,12 @@ package main
 
 import (
 	"fmt"
-	"github.com/akyoto/autoimport"
 	"os"
 	"path"
 	"sort"
 	"strings"
+
+	"github.com/akyoto/autoimport"
 )
 
 func main() {

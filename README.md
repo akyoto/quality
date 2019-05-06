@@ -29,7 +29,7 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 | autoimport | [akyoto/autoimport](https://github.com/akyoto/autoimport) |[![Report][report-image-autoimport]][report-url-autoimport] | [![Tests][tests-image-autoimport]][tests-url-autoimport] | [![Coverage][codecov-image-autoimport]][codecov-url-autoimport] |
 | color | [akyoto/color](https://github.com/akyoto/color) |[![Report][report-image-color]][report-url-color] | [![Tests][tests-image-color]][tests-url-color] | [![Coverage][codecov-image-color]][codecov-url-color] |
 | ignore | [akyoto/ignore](https://github.com/akyoto/ignore) |[![Report][report-image-ignore]][report-url-ignore] | [![Tests][tests-image-ignore]][tests-url-ignore] | [![Coverage][codecov-image-ignore]][codecov-url-ignore] |
-| imageoutput | [akyoto/imageoutput](https://github.com/akyoto/imageoutput) |[![Report][report-image-imageoutput]][report-url-imageoutput] | [![Tests][tests-image-imageoutput]][tests-url-imageoutput] | [![Coverage][codecov-image-imageoutput]][codecov-url-imageoutput] |
+| imageserver | [akyoto/imageserver](https://github.com/akyoto/imageserver) |[![Report][report-image-imageserver]][report-url-imageserver] | [![Tests][tests-image-imageserver]][tests-url-imageserver] | [![Coverage][codecov-image-imageserver]][codecov-url-imageserver] |
 | webpush | [akyoto/webpush-go](https://github.com/akyoto/webpush-go) |[![Report][report-image-webpush]][report-url-webpush] | [![Tests][tests-image-webpush]][tests-url-webpush] | [![Coverage][codecov-image-webpush]][codecov-url-webpush] |
 | anilist | [animenotifier/anilist](https://github.com/animenotifier/anilist) |[![Report][report-image-anilist]][report-url-anilist] | [![Tests][tests-image-anilist]][tests-url-anilist] | [![Coverage][codecov-image-anilist]][codecov-url-anilist] |
 | arn | [animenotifier/arn](https://github.com/animenotifier/arn) |[![Report][report-image-arn]][report-url-arn] | [![Tests][tests-image-arn]][tests-url-arn] | [![Coverage][codecov-image-arn]][codecov-url-arn] |
@@ -217,12 +217,12 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 [codecov-image-ignore]: https://codecov.io/gh/akyoto/ignore/graph/badge.svg
 [codecov-url-ignore]: https://codecov.io/gh/akyoto/ignore
 
-[report-image-imageoutput]: https://goreportcard.com/badge/github.com/akyoto/imageoutput
-[report-url-imageoutput]: https://goreportcard.com/report/github.com/akyoto/imageoutput
-[tests-image-imageoutput]: https://cloud.drone.io/api/badges/akyoto/imageoutput/status.svg
-[tests-url-imageoutput]:  https://cloud.drone.io/akyoto/imageoutput
-[codecov-image-imageoutput]: https://codecov.io/gh/akyoto/imageoutput/graph/badge.svg
-[codecov-url-imageoutput]: https://codecov.io/gh/akyoto/imageoutput
+[report-image-imageserver]: https://goreportcard.com/badge/github.com/akyoto/imageserver
+[report-url-imageserver]: https://goreportcard.com/report/github.com/akyoto/imageserver
+[tests-image-imageserver]: https://cloud.drone.io/api/badges/akyoto/imageserver/status.svg
+[tests-url-imageserver]:  https://cloud.drone.io/akyoto/imageserver
+[codecov-image-imageserver]: https://codecov.io/gh/akyoto/imageserver/graph/badge.svg
+[codecov-url-imageserver]: https://codecov.io/gh/akyoto/imageserver
 
 [report-image-webpush]: https://goreportcard.com/badge/github.com/akyoto/webpush-go
 [report-url-webpush]: https://goreportcard.com/report/github.com/akyoto/webpush-go
