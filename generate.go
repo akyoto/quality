@@ -39,8 +39,8 @@ func main() {
 
 	// Header
 	fmt.Println(strings.ReplaceAll(`
-		| Package | Path | Report | Tests | Coverage |
-		|---------|------|--------|-------|----------|`,
+		| Package | Path | Version | Report | Tests | Coverage |
+		|---------|------|---------|--------|-------|----------|`,
 		"\t",
 		"",
 	))
@@ -58,8 +58,9 @@ func main() {
 
 func generate(pkg *autoimport.Package) {
 	fmt.Printf(
-		"| %s | [%s](https://github.com/%s) |[![Report][report-image-%s]][report-url-%s] | [![Tests][tests-image-%s]][tests-url-%s] | [![Coverage][codecov-image-%s]][codecov-url-%s] |\n",
+		"| %s | [%s](https://github.com/%s) | ![Tag](https://img.shields.io/github/tag/%s.svg) | [![Report][report-image-%s]][report-url-%s] | [![Tests][tests-image-%s]][tests-url-%s] | [![Coverage][codecov-image-%s]][codecov-url-%s] |\n",
 		pkg.Name,
+		pkg.ImportPath,
 		pkg.ImportPath,
 		pkg.ImportPath,
 		pkg.Name,
