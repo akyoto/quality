@@ -2,7 +2,6 @@
 
 Overview of the code quality and [code style](STYLE.md) of projects I'm working on.
 
-
 | Package | Path | Report | Tests | Coverage |
 |---------|------|--------|-------|----------|
 | aero | [aerogo/aero](https://github.com/aerogo/aero) |[![Report][report-image-aero]][report-url-aero] | [![Tests][tests-image-aero]][tests-url-aero] | [![Coverage][codecov-image-aero]][codecov-url-aero] |
@@ -31,6 +30,7 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 | color | [akyoto/color](https://github.com/akyoto/color) |[![Report][report-image-color]][report-url-color] | [![Tests][tests-image-color]][tests-url-color] | [![Coverage][codecov-image-color]][codecov-url-color] |
 | ignore | [akyoto/ignore](https://github.com/akyoto/ignore) |[![Report][report-image-ignore]][report-url-ignore] | [![Tests][tests-image-ignore]][tests-url-ignore] | [![Coverage][codecov-image-ignore]][codecov-url-ignore] |
 | imageserver | [akyoto/imageserver](https://github.com/akyoto/imageserver) |[![Report][report-image-imageserver]][report-url-imageserver] | [![Tests][tests-image-imageserver]][tests-url-imageserver] | [![Coverage][codecov-image-imageserver]][codecov-url-imageserver] |
+| stringutils | [akyoto/stringutils](https://github.com/akyoto/stringutils) |[![Report][report-image-stringutils]][report-url-stringutils] | [![Tests][tests-image-stringutils]][tests-url-stringutils] | [![Coverage][codecov-image-stringutils]][codecov-url-stringutils] |
 | webpush | [akyoto/webpush-go](https://github.com/akyoto/webpush-go) |[![Report][report-image-webpush]][report-url-webpush] | [![Tests][tests-image-webpush]][tests-url-webpush] | [![Coverage][codecov-image-webpush]][codecov-url-webpush] |
 | anilist | [animenotifier/anilist](https://github.com/animenotifier/anilist) |[![Report][report-image-anilist]][report-url-anilist] | [![Tests][tests-image-anilist]][tests-url-anilist] | [![Coverage][codecov-image-anilist]][codecov-url-anilist] |
 | arn | [animenotifier/arn](https://github.com/animenotifier/arn) |[![Report][report-image-arn]][report-url-arn] | [![Tests][tests-image-arn]][tests-url-arn] | [![Coverage][codecov-image-arn]][codecov-url-arn] |
@@ -225,6 +225,13 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 [codecov-image-imageserver]: https://codecov.io/gh/akyoto/imageserver/graph/badge.svg
 [codecov-url-imageserver]: https://codecov.io/gh/akyoto/imageserver
 
+[report-image-stringutils]: https://goreportcard.com/badge/github.com/akyoto/stringutils
+[report-url-stringutils]: https://goreportcard.com/report/github.com/akyoto/stringutils
+[tests-image-stringutils]: https://cloud.drone.io/api/badges/akyoto/stringutils/status.svg
+[tests-url-stringutils]:  https://cloud.drone.io/akyoto/stringutils
+[codecov-image-stringutils]: https://codecov.io/gh/akyoto/stringutils/graph/badge.svg
+[codecov-url-stringutils]: https://codecov.io/gh/akyoto/stringutils
+
 [report-image-webpush]: https://goreportcard.com/badge/github.com/akyoto/webpush-go
 [report-url-webpush]: https://goreportcard.com/report/github.com/akyoto/webpush-go
 [tests-image-webpush]: https://cloud.drone.io/api/badges/akyoto/webpush-go/status.svg
@@ -293,11 +300,3 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 [tests-image-shoboi]: https://cloud.drone.io/api/badges/animenotifier/shoboi/status.svg
 [tests-url-shoboi]:  https://cloud.drone.io/animenotifier/shoboi
 [codecov-image-shoboi]: https://codecov.io/gh/animenotifier/shoboi/graph/badge.svg
-[codecov-url-shoboi]: https://codecov.io/gh/animenotifier/shoboi
-
-[report-image-twist]: https://goreportcard.com/badge/github.com/animenotifier/twist
-[report-url-twist]: https://goreportcard.com/report/github.com/animenotifier/twist
-[tests-image-twist]: https://cloud.drone.io/api/badges/animenotifier/twist/status.svg
-[tests-url-twist]:  https://cloud.drone.io/animenotifier/twist
-[codecov-image-twist]: https://codecov.io/gh/animenotifier/twist/graph/badge.svg
-[codecov-url-twist]: https://codecov.io/gh/animenotifier/twist
