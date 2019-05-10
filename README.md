@@ -12,6 +12,7 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 | crawler | [aerogo/crawler](https://github.com/aerogo/crawler) | ![Tag](https://img.shields.io/github/tag/aerogo/crawler.svg) | [![Report][report-image-crawler]][report-url-crawler] | [![Tests][tests-image-crawler]][tests-url-crawler] | [![Coverage][codecov-image-crawler]][codecov-url-crawler] |
 | csp | [aerogo/csp](https://github.com/aerogo/csp) | ![Tag](https://img.shields.io/github/tag/aerogo/csp.svg) | [![Report][report-image-csp]][report-url-csp] | [![Tests][tests-image-csp]][tests-url-csp] | [![Coverage][codecov-image-csp]][codecov-url-csp] |
 | flow | [aerogo/flow](https://github.com/aerogo/flow) | ![Tag](https://img.shields.io/github/tag/aerogo/flow.svg) | [![Report][report-image-flow]][report-url-flow] | [![Tests][tests-image-flow]][tests-url-flow] | [![Coverage][codecov-image-flow]][codecov-url-flow] |
+| graphql | [aerogo/graphql](https://github.com/aerogo/graphql) | ![Tag](https://img.shields.io/github/tag/aerogo/graphql.svg) | [![Report][report-image-graphql]][report-url-graphql] | [![Tests][tests-image-graphql]][tests-url-graphql] | [![Coverage][codecov-image-graphql]][codecov-url-graphql] |
 | http | [aerogo/http](https://github.com/aerogo/http) | ![Tag](https://img.shields.io/github/tag/aerogo/http.svg) | [![Report][report-image-http]][report-url-http] | [![Tests][tests-image-http]][tests-url-http] | [![Coverage][codecov-image-http]][codecov-url-http] |
 | layout | [aerogo/layout](https://github.com/aerogo/layout) | ![Tag](https://img.shields.io/github/tag/aerogo/layout.svg) | [![Report][report-image-layout]][report-url-layout] | [![Tests][tests-image-layout]][tests-url-layout] | [![Coverage][codecov-image-layout]][codecov-url-layout] |
 | performance | [aerogo/linter-performance](https://github.com/aerogo/linter-performance) | ![Tag](https://img.shields.io/github/tag/aerogo/linter-performance.svg) | [![Report][report-image-performance]][report-url-performance] | [![Tests][tests-image-performance]][tests-url-performance] | [![Coverage][codecov-image-performance]][codecov-url-performance] |
@@ -98,6 +99,13 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 [tests-url-flow]:  https://cloud.drone.io/aerogo/flow
 [codecov-image-flow]: https://codecov.io/gh/aerogo/flow/graph/badge.svg
 [codecov-url-flow]: https://codecov.io/gh/aerogo/flow
+
+[report-image-graphql]: https://goreportcard.com/badge/github.com/aerogo/graphql
+[report-url-graphql]: https://goreportcard.com/report/github.com/aerogo/graphql
+[tests-image-graphql]: https://cloud.drone.io/api/badges/aerogo/graphql/status.svg
+[tests-url-graphql]:  https://cloud.drone.io/aerogo/graphql
+[codecov-image-graphql]: https://codecov.io/gh/aerogo/graphql/graph/badge.svg
+[codecov-url-graphql]: https://codecov.io/gh/aerogo/graphql
 
 [report-image-http]: https://goreportcard.com/badge/github.com/aerogo/http
 [report-url-http]: https://goreportcard.com/report/github.com/aerogo/http
