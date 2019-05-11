@@ -28,6 +28,7 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 | nanostore | [aerogo/session-store-nano](https://github.com/aerogo/session-store-nano) | ![Tag](https://img.shields.io/github/tag/aerogo/session-store-nano.svg) | [![Report][report-image-nanostore]][report-url-nanostore] | [![Tests][tests-image-nanostore]][tests-url-nanostore] | [![Coverage][codecov-image-nanostore]][codecov-url-nanostore] |
 | sitemap | [aerogo/sitemap](https://github.com/aerogo/sitemap) | ![Tag](https://img.shields.io/github/tag/aerogo/sitemap.svg) | [![Report][report-image-sitemap]][report-url-sitemap] | [![Tests][tests-image-sitemap]][tests-url-sitemap] | [![Coverage][codecov-image-sitemap]][codecov-url-sitemap] |
 | autoimport | [akyoto/autoimport](https://github.com/akyoto/autoimport) | ![Tag](https://img.shields.io/github/tag/akyoto/autoimport.svg) | [![Report][report-image-autoimport]][report-url-autoimport] | [![Tests][tests-image-autoimport]][tests-url-autoimport] | [![Coverage][codecov-image-autoimport]][codecov-url-autoimport] |
+| cache | [akyoto/cache](https://github.com/akyoto/cache) | ![Tag](https://img.shields.io/github/tag/akyoto/cache.svg) | [![Report][report-image-cache]][report-url-cache] | [![Tests][tests-image-cache]][tests-url-cache] | [![Coverage][codecov-image-cache]][codecov-url-cache] |
 | color | [akyoto/color](https://github.com/akyoto/color) | ![Tag](https://img.shields.io/github/tag/akyoto/color.svg) | [![Report][report-image-color]][report-url-color] | [![Tests][tests-image-color]][tests-url-color] | [![Coverage][codecov-image-color]][codecov-url-color] |
 | ignore | [akyoto/ignore](https://github.com/akyoto/ignore) | ![Tag](https://img.shields.io/github/tag/akyoto/ignore.svg) | [![Report][report-image-ignore]][report-url-ignore] | [![Tests][tests-image-ignore]][tests-url-ignore] | [![Coverage][codecov-image-ignore]][codecov-url-ignore] |
 | imageserver | [akyoto/imageserver](https://github.com/akyoto/imageserver) | ![Tag](https://img.shields.io/github/tag/akyoto/imageserver.svg) | [![Report][report-image-imageserver]][report-url-imageserver] | [![Tests][tests-image-imageserver]][tests-url-imageserver] | [![Coverage][codecov-image-imageserver]][codecov-url-imageserver] |
@@ -211,6 +212,13 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 [tests-url-autoimport]:  https://cloud.drone.io/akyoto/autoimport
 [codecov-image-autoimport]: https://codecov.io/gh/akyoto/autoimport/graph/badge.svg
 [codecov-url-autoimport]: https://codecov.io/gh/akyoto/autoimport
+
+[report-image-cache]: https://goreportcard.com/badge/github.com/akyoto/cache
+[report-url-cache]: https://goreportcard.com/report/github.com/akyoto/cache
+[tests-image-cache]: https://cloud.drone.io/api/badges/akyoto/cache/status.svg
+[tests-url-cache]:  https://cloud.drone.io/akyoto/cache
+[codecov-image-cache]: https://codecov.io/gh/akyoto/cache/graph/badge.svg
+[codecov-url-cache]: https://codecov.io/gh/akyoto/cache
 
 [report-image-color]: https://goreportcard.com/badge/github.com/akyoto/color
 [report-url-color]: https://goreportcard.com/report/github.com/akyoto/color
