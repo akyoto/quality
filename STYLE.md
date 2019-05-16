@@ -6,6 +6,7 @@ This document is only meant to teach you the code style used among each project 
 * [Empty line between blocks and statements](#empty-line-between-blocks-and-statements)
 * [Empty line between commented blocks](#empty-line-between-commented-blocks)
 * [Variable names](#variable-names)
+* [Early returns](#early-returns)
 * [Types at the top](#types-at-the-top)
 * [Private fields at the end of a struct](#private-fields-at-the-end-of-a-struct)
 * [Don't comment out outdated code](#dont-comment-out-outdated-code)
