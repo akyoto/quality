@@ -17,9 +17,11 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 | layout | [aerogo/layout](https://github.com/aerogo/layout) | [![Report][report-image-layout]][report-url-layout] | [![Tests][tests-image-layout]][tests-url-layout] | [![Coverage][codecov-image-layout]][codecov-url-layout] |
 | performance | [aerogo/linter-performance](https://github.com/aerogo/linter-performance) | [![Report][report-image-performance]][report-url-performance] | [![Tests][tests-image-performance]][tests-url-performance] | [![Coverage][codecov-image-performance]][codecov-url-performance] |
 | log | [aerogo/log](https://github.com/aerogo/log) | [![Report][report-image-log]][report-url-log] | [![Tests][tests-image-log]][tests-url-log] | [![Coverage][codecov-image-log]][codecov-url-log] |
+| manifest | [aerogo/manifest](https://github.com/aerogo/manifest) | [![Report][report-image-manifest]][report-url-manifest] | [![Tests][tests-image-manifest]][tests-url-manifest] | [![Coverage][codecov-image-manifest]][codecov-url-manifest] |
 | markdown | [aerogo/markdown](https://github.com/aerogo/markdown) | [![Report][report-image-markdown]][report-url-markdown] | [![Tests][tests-image-markdown]][tests-url-markdown] | [![Coverage][codecov-image-markdown]][codecov-url-markdown] |
 | mirror | [aerogo/mirror](https://github.com/aerogo/mirror) | [![Report][report-image-mirror]][report-url-mirror] | [![Tests][tests-image-mirror]][tests-url-mirror] | [![Coverage][codecov-image-mirror]][codecov-url-mirror] |
 | nano | [aerogo/nano](https://github.com/aerogo/nano) | [![Report][report-image-nano]][report-url-nano] | [![Tests][tests-image-nano]][tests-url-nano] | [![Coverage][codecov-image-nano]][codecov-url-nano] |
+| pack | [aerogo/pack](https://github.com/aerogo/pack) | [![Report][report-image-pack]][report-url-pack] | [![Tests][tests-image-pack]][tests-url-pack] | [![Coverage][codecov-image-pack]][codecov-url-pack] |
 | packet | [aerogo/packet](https://github.com/aerogo/packet) | [![Report][report-image-packet]][report-url-packet] | [![Tests][tests-image-packet]][tests-url-packet] | [![Coverage][codecov-image-packet]][codecov-url-packet] |
 | pixy | [aerogo/pixy](https://github.com/aerogo/pixy) | [![Report][report-image-pixy]][report-url-pixy] | [![Tests][tests-image-pixy]][tests-url-pixy] | [![Coverage][codecov-image-pixy]][codecov-url-pixy] |
 | scarlet | [aerogo/scarlet](https://github.com/aerogo/scarlet) | [![Report][report-image-scarlet]][report-url-scarlet] | [![Tests][tests-image-scarlet]][tests-url-scarlet] | [![Coverage][codecov-image-scarlet]][codecov-url-scarlet] |
@@ -136,6 +138,13 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 [codecov-image-log]: https://codecov.io/gh/aerogo/log/graph/badge.svg
 [codecov-url-log]: https://codecov.io/gh/aerogo/log
 
+[report-image-manifest]: https://goreportcard.com/badge/github.com/aerogo/manifest
+[report-url-manifest]: https://goreportcard.com/report/github.com/aerogo/manifest
+[tests-image-manifest]: https://cloud.drone.io/api/badges/aerogo/manifest/status.svg
+[tests-url-manifest]:  https://cloud.drone.io/aerogo/manifest
+[codecov-image-manifest]: https://codecov.io/gh/aerogo/manifest/graph/badge.svg
+[codecov-url-manifest]: https://codecov.io/gh/aerogo/manifest
+
 [report-image-markdown]: https://goreportcard.com/badge/github.com/aerogo/markdown
 [report-url-markdown]: https://goreportcard.com/report/github.com/aerogo/markdown
 [tests-image-markdown]: https://cloud.drone.io/api/badges/aerogo/markdown/status.svg
@@ -156,6 +165,13 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 [tests-url-nano]:  https://cloud.drone.io/aerogo/nano
 [codecov-image-nano]: https://codecov.io/gh/aerogo/nano/graph/badge.svg
 [codecov-url-nano]: https://codecov.io/gh/aerogo/nano
+
+[report-image-pack]: https://goreportcard.com/badge/github.com/aerogo/pack
+[report-url-pack]: https://goreportcard.com/report/github.com/aerogo/pack
+[tests-image-pack]: https://cloud.drone.io/api/badges/aerogo/pack/status.svg
+[tests-url-pack]:  https://cloud.drone.io/aerogo/pack
+[codecov-image-pack]: https://codecov.io/gh/aerogo/pack/graph/badge.svg
+[codecov-url-pack]: https://codecov.io/gh/aerogo/pack
 
 [report-image-packet]: https://goreportcard.com/badge/github.com/aerogo/packet
 [report-url-packet]: https://goreportcard.com/report/github.com/aerogo/packet
