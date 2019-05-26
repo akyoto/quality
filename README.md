@@ -32,6 +32,7 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 | autoimport | [akyoto/autoimport](https://github.com/akyoto/autoimport) | [![Report][report-image-autoimport]][report-url-autoimport] | [![Tests][tests-image-autoimport]][tests-url-autoimport] | [![Coverage][codecov-image-autoimport]][codecov-url-autoimport] |
 | cache | [akyoto/cache](https://github.com/akyoto/cache) | [![Report][report-image-cache]][report-url-cache] | [![Tests][tests-image-cache]][tests-url-cache] | [![Coverage][codecov-image-cache]][codecov-url-cache] |
 | color | [akyoto/color](https://github.com/akyoto/color) | [![Report][report-image-color]][report-url-color] | [![Tests][tests-image-color]][tests-url-color] | [![Coverage][codecov-image-color]][codecov-url-color] |
+| hash | [akyoto/hash](https://github.com/akyoto/hash) | [![Report][report-image-hash]][report-url-hash] | [![Tests][tests-image-hash]][tests-url-hash] | [![Coverage][codecov-image-hash]][codecov-url-hash] |
 | ignore | [akyoto/ignore](https://github.com/akyoto/ignore) | [![Report][report-image-ignore]][report-url-ignore] | [![Tests][tests-image-ignore]][tests-url-ignore] | [![Coverage][codecov-image-ignore]][codecov-url-ignore] |
 | imageserver | [akyoto/imageserver](https://github.com/akyoto/imageserver) | [![Report][report-image-imageserver]][report-url-imageserver] | [![Tests][tests-image-imageserver]][tests-url-imageserver] | [![Coverage][codecov-image-imageserver]][codecov-url-imageserver] |
 | stringutils | [akyoto/stringutils](https://github.com/akyoto/stringutils) | [![Report][report-image-stringutils]][report-url-stringutils] | [![Tests][tests-image-stringutils]][tests-url-stringutils] | [![Coverage][codecov-image-stringutils]][codecov-url-stringutils] |
@@ -242,6 +243,13 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 [tests-url-color]:  https://cloud.drone.io/akyoto/color
 [codecov-image-color]: https://codecov.io/gh/akyoto/color/graph/badge.svg
 [codecov-url-color]: https://codecov.io/gh/akyoto/color
+
+[report-image-hash]: https://goreportcard.com/badge/github.com/akyoto/hash
+[report-url-hash]: https://goreportcard.com/report/github.com/akyoto/hash
+[tests-image-hash]: https://cloud.drone.io/api/badges/akyoto/hash/status.svg
+[tests-url-hash]:  https://cloud.drone.io/akyoto/hash
+[codecov-image-hash]: https://codecov.io/gh/akyoto/hash/graph/badge.svg
+[codecov-url-hash]: https://codecov.io/gh/akyoto/hash
 
 [report-image-ignore]: https://goreportcard.com/badge/github.com/akyoto/ignore
 [report-url-ignore]: https://goreportcard.com/report/github.com/akyoto/ignore
