@@ -14,7 +14,6 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 | flow | [aerogo/flow](https://github.com/aerogo/flow) | [![Report][report-image-flow]][report-url-flow] | [![Tests][tests-image-flow]][tests-url-flow] | [![Coverage][codecov-image-flow]][codecov-url-flow] |
 | graphql | [aerogo/graphql](https://github.com/aerogo/graphql) | [![Report][report-image-graphql]][report-url-graphql] | [![Tests][tests-image-graphql]][tests-url-graphql] | [![Coverage][codecov-image-graphql]][codecov-url-graphql] |
 | http | [aerogo/http](https://github.com/aerogo/http) | [![Report][report-image-http]][report-url-http] | [![Tests][tests-image-http]][tests-url-http] | [![Coverage][codecov-image-http]][codecov-url-http] |
-| layout | [aerogo/layout](https://github.com/aerogo/layout) | [![Report][report-image-layout]][report-url-layout] | [![Tests][tests-image-layout]][tests-url-layout] | [![Coverage][codecov-image-layout]][codecov-url-layout] |
 | performance | [aerogo/linter-performance](https://github.com/aerogo/linter-performance) | [![Report][report-image-performance]][report-url-performance] | [![Tests][tests-image-performance]][tests-url-performance] | [![Coverage][codecov-image-performance]][codecov-url-performance] |
 | log | [aerogo/log](https://github.com/aerogo/log) | [![Report][report-image-log]][report-url-log] | [![Tests][tests-image-log]][tests-url-log] | [![Coverage][codecov-image-log]][codecov-url-log] |
 | manifest | [aerogo/manifest](https://github.com/aerogo/manifest) | [![Report][report-image-manifest]][report-url-manifest] | [![Tests][tests-image-manifest]][tests-url-manifest] | [![Coverage][codecov-image-manifest]][codecov-url-manifest] |
@@ -29,6 +28,7 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 | memstore | [aerogo/session-store-memory](https://github.com/aerogo/session-store-memory) | [![Report][report-image-memstore]][report-url-memstore] | [![Tests][tests-image-memstore]][tests-url-memstore] | [![Coverage][codecov-image-memstore]][codecov-url-memstore] |
 | nanostore | [aerogo/session-store-nano](https://github.com/aerogo/session-store-nano) | [![Report][report-image-nanostore]][report-url-nanostore] | [![Tests][tests-image-nanostore]][tests-url-nanostore] | [![Coverage][codecov-image-nanostore]][codecov-url-nanostore] |
 | sitemap | [aerogo/sitemap](https://github.com/aerogo/sitemap) | [![Report][report-image-sitemap]][report-url-sitemap] | [![Tests][tests-image-sitemap]][tests-url-sitemap] | [![Coverage][codecov-image-sitemap]][codecov-url-sitemap] |
+| assert | [akyoto/assert](https://github.com/akyoto/assert) | [![Report][report-image-assert]][report-url-assert] | [![Tests][tests-image-assert]][tests-url-assert] | [![Coverage][codecov-image-assert]][codecov-url-assert] |
 | autoimport | [akyoto/autoimport](https://github.com/akyoto/autoimport) | [![Report][report-image-autoimport]][report-url-autoimport] | [![Tests][tests-image-autoimport]][tests-url-autoimport] | [![Coverage][codecov-image-autoimport]][codecov-url-autoimport] |
 | cache | [akyoto/cache](https://github.com/akyoto/cache) | [![Report][report-image-cache]][report-url-cache] | [![Tests][tests-image-cache]][tests-url-cache] | [![Coverage][codecov-image-cache]][codecov-url-cache] |
 | color | [akyoto/color](https://github.com/akyoto/color) | [![Report][report-image-color]][report-url-color] | [![Tests][tests-image-color]][tests-url-color] | [![Coverage][codecov-image-color]][codecov-url-color] |
@@ -38,7 +38,6 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 | stringutils | [akyoto/stringutils](https://github.com/akyoto/stringutils) | [![Report][report-image-stringutils]][report-url-stringutils] | [![Tests][tests-image-stringutils]][tests-url-stringutils] | [![Coverage][codecov-image-stringutils]][codecov-url-stringutils] |
 | webpush | [akyoto/webpush-go](https://github.com/akyoto/webpush-go) | [![Report][report-image-webpush]][report-url-webpush] | [![Tests][tests-image-webpush]][tests-url-webpush] | [![Coverage][codecov-image-webpush]][codecov-url-webpush] |
 | anilist | [animenotifier/anilist](https://github.com/animenotifier/anilist) | [![Report][report-image-anilist]][report-url-anilist] | [![Tests][tests-image-anilist]][tests-url-anilist] | [![Coverage][codecov-image-anilist]][codecov-url-anilist] |
-| arn | [animenotifier/arn](https://github.com/animenotifier/arn) | [![Report][report-image-arn]][report-url-arn] | [![Tests][tests-image-arn]][tests-url-arn] | [![Coverage][codecov-image-arn]][codecov-url-arn] |
 | ffxiv | [animenotifier/ffxiv](https://github.com/animenotifier/ffxiv) | [![Report][report-image-ffxiv]][report-url-ffxiv] | [![Tests][tests-image-ffxiv]][tests-url-ffxiv] | [![Coverage][codecov-image-ffxiv]][codecov-url-ffxiv] |
 | japanese | [animenotifier/japanese](https://github.com/animenotifier/japanese) | [![Report][report-image-japanese]][report-url-japanese] | [![Tests][tests-image-japanese]][tests-url-japanese] | [![Coverage][codecov-image-japanese]][codecov-url-japanese] |
 | kitsu | [animenotifier/kitsu](https://github.com/animenotifier/kitsu) | [![Report][report-image-kitsu]][report-url-kitsu] | [![Tests][tests-image-kitsu]][tests-url-kitsu] | [![Coverage][codecov-image-kitsu]][codecov-url-kitsu] |
@@ -117,13 +116,6 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 [tests-url-http]:  https://cloud.drone.io/aerogo/http
 [codecov-image-http]: https://codecov.io/gh/aerogo/http/graph/badge.svg
 [codecov-url-http]: https://codecov.io/gh/aerogo/http
-
-[report-image-layout]: https://goreportcard.com/badge/github.com/aerogo/layout
-[report-url-layout]: https://goreportcard.com/report/github.com/aerogo/layout
-[tests-image-layout]: https://cloud.drone.io/api/badges/aerogo/layout/status.svg
-[tests-url-layout]:  https://cloud.drone.io/aerogo/layout
-[codecov-image-layout]: https://codecov.io/gh/aerogo/layout/graph/badge.svg
-[codecov-url-layout]: https://codecov.io/gh/aerogo/layout
 
 [report-image-performance]: https://goreportcard.com/badge/github.com/aerogo/linter-performance
 [report-url-performance]: https://goreportcard.com/report/github.com/aerogo/linter-performance
@@ -223,6 +215,13 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 [codecov-image-sitemap]: https://codecov.io/gh/aerogo/sitemap/graph/badge.svg
 [codecov-url-sitemap]: https://codecov.io/gh/aerogo/sitemap
 
+[report-image-assert]: https://goreportcard.com/badge/github.com/akyoto/assert
+[report-url-assert]: https://goreportcard.com/report/github.com/akyoto/assert
+[tests-image-assert]: https://cloud.drone.io/api/badges/akyoto/assert/status.svg
+[tests-url-assert]:  https://cloud.drone.io/akyoto/assert
+[codecov-image-assert]: https://codecov.io/gh/akyoto/assert/graph/badge.svg
+[codecov-url-assert]: https://codecov.io/gh/akyoto/assert
+
 [report-image-autoimport]: https://goreportcard.com/badge/github.com/akyoto/autoimport
 [report-url-autoimport]: https://goreportcard.com/report/github.com/akyoto/autoimport
 [tests-image-autoimport]: https://cloud.drone.io/api/badges/akyoto/autoimport/status.svg
@@ -285,13 +284,6 @@ Overview of the code quality and [code style](STYLE.md) of projects I'm working 
 [tests-url-anilist]:  https://cloud.drone.io/animenotifier/anilist
 [codecov-image-anilist]: https://codecov.io/gh/animenotifier/anilist/graph/badge.svg
 [codecov-url-anilist]: https://codecov.io/gh/animenotifier/anilist
-
-[report-image-arn]: https://goreportcard.com/badge/github.com/animenotifier/arn
-[report-url-arn]: https://goreportcard.com/report/github.com/animenotifier/arn
-[tests-image-arn]: https://cloud.drone.io/api/badges/animenotifier/arn/status.svg
-[tests-url-arn]:  https://cloud.drone.io/animenotifier/arn
-[codecov-image-arn]: https://codecov.io/gh/animenotifier/arn/graph/badge.svg
-[codecov-url-arn]: https://codecov.io/gh/animenotifier/arn
 
 [report-image-ffxiv]: https://goreportcard.com/badge/github.com/animenotifier/ffxiv
 [report-url-ffxiv]: https://goreportcard.com/report/github.com/animenotifier/ffxiv
